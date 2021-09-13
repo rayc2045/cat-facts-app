@@ -1,4 +1,6 @@
-# cat-facts-app
+# Cat Facts App with Vue Router, Typescript and Vue Composition API
+
+![cover](https://raw.githubusercontent.com/rayc2045/cat-facts-app/master/src/assets/cover.jpg)
 
 ## Project setup
 ```
